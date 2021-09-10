@@ -1,3 +1,4 @@
+![2021-09-10 (4)](https://user-images.githubusercontent.com/52622822/132862897-1a0c8587-b3a7-43f7-bdf8-fed2b264de7d.png)
 # README.md
 A Simple web app to classify Electric guitar models using a Convolutional Neural Net (CNN) and transfer learning with Resnet34.
 
