@@ -1,1 +1,35 @@
-# Sample
+# README.md
+A Simple web app to classify Electric guitar models using a Convolutional Neural Net (CNN) and transfer learning with Resnet34.
+
+I gather data with the help of fastai library that uses DuckDuckGo by creating a nested list of urls of pictures then download it.
+
+For the purpose of training i turned PNG formatted pictures to JPEG to deal with RGBA issue for training then clear PNG images.
+
+Also my pre-trained models are available in the repo.
+
+There are 11 types of Electric guitar in my classifier that I mention below:
+
+Telecaster, Fender
+
+Les Paul, Gibson
+
+ES, Gibson 
+
+Explorer, Gibson
+
+Flying V, Gibson
+
+Mustang, Fender
+
+Stratocaster, Fender
+
+SG, Gibson 
+
+Jaguar, Fender
+
+Firebird, Gibson 
+
+Jazzmaster, Fender
+
+
+Here is a link to my web app:
