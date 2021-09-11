@@ -6,7 +6,7 @@ I gather data with the help of fastai library that uses DuckDuckGo by creating a
 
 For the purpose of training i turned PNG formatted pictures to JPEG to deal with RGBA issue for training then clear PNG images.
 
-Also my pre-trained models are available in the repo.
+
 
 ![2021-09-10 (4)](https://user-images.githubusercontent.com/52622822/132862897-1a0c8587-b3a7-43f7-bdf8-fed2b264de7d.png)
 
