@@ -5,3 +5,4 @@ numpy==1.19.5
 pillow==7.1.2
 ipywidgets==7.6.3
 voila
+fastbook==0.0.18
